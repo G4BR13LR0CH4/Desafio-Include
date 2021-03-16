@@ -1,0 +1,109 @@
+.btno {
+    height: 48px;
+    width: 180px;
+    padding-left: 12px;
+    margin-left: 3%;
+
+    font-weight: bold;
+    font-size: 18pt;
+    color: rgb(0, 0, 0);
+    border: 3px ridge #000000;
+    border-radius: 16px;
+    background-color: red;
+    cursor: pointer;
+}
+
+.btno-2 {
+    height: 38px;
+    width: 80px;
+    padding-left: 12px;
+    float: right;
+    margin-top: 13px;
+    
+    font-weight: bold;
+    font-size: 14pt;
+    color: rgb(0, 0, 0);
+    border: 3px ridge #000000;
+    border-radius: 16px;
+    background-color: red;
+    cursor: pointer;
+}
+
+#title {
+    background-color: white;
+    position: relative;
+    float: left;
+    width: 748px;
+    height: 99px;
+
+    border-radius: 14px;
+    margin-top: 1%;
+    margin-left: 10%;
+    border: 7px  #5C5C5C;
+    border-style: ridge;
+}
+
+#title p{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 52px;
+    padding-left: 40px;
+    padding-top: 10px;
+    
+}
+
+#visor {
+    height: 583px;
+    float: left;
+    margin-left: 30px;
+    background: #FFFFFF;
+    border: 7px ridge #5C5C5C;
+    box-sizing: border-box;
+    border-radius: 16px;
+}
+
+#idlista {
+    width: 585px;
+    height: 730px;
+    float: right;
+    margin-left: 10px;
+
+    background: #FFB800;
+    border: 7px ridge #5C5C5C;
+    box-sizing: border-box;
+    border-radius: 16px;
+}
+
+#config_list img{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-top: 7px;
+    margin-right: 15px;
+}
+
+#config_list p{
+    color: rgba(115,113,113,1);
+    font-size: 30pt;
+    font-weight: bold;
+
+}
+
+.btn-img{
+    height: 40px;
+    width: 40px;
+}
+
+iframe {
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+.img {
+    position: absolute;
+    width: 575px;
+    height: 555px;
+    left: -280.4px;
+    top: 255.5px;
+    z-index: -1;
+}
